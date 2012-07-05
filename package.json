@@ -9,7 +9,7 @@
 	},
 	"main": "lib/index.js",
 	"dependencies": {
-		"hook.io": "git://github.com/hookio/hook.io.git#19e489a58bce6fd4b64f161c1401e5a5d93f787c",
+		"hook.io": "0.8.10",
 		"hashring": "0.0.6"
 	},
 	"devDependencies": {
